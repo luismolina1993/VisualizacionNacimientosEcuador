@@ -1,0 +1,1487 @@
+[
+  {
+    "provincia": "Azuay",
+    "nacidos": 14052,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 3694,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2788,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4211,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 9345,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 8892,
+    "periodo": 2010
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 11938,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 10481,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 1,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 354,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 74484,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 9209,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 9202,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 17065,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 27518,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4093,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2789,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 3579,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2232,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 47556,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 7173,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 9697,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 25050,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4029,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9810,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 2032,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 10,
+    "periodo": 2010
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 14564,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 3573,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2755,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4322,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 9641,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 8793,
+    "periodo": 2011
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12750,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 11334,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 386,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 78926,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 9294,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 9459,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 17666,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 28145,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4163,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 3129,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 3820,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2438,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 48747,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 7567,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 10488,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 20895,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4492,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 10076,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 2113,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 36,
+    "periodo": 2011
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 15027,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 3441,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2754,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4402,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 9038,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 8614,
+    "periodo": 2012
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12790,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 11393,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 406,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 77948,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8860,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 9276,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 17309,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 27642,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4771,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 3180,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 4298,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2634,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 50401,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 7361,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 10423,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 11073,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4812,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 10182,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 2144,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 38,
+    "periodo": 2012
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 14679,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 3067,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2632,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4189,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 8633,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 8015,
+    "periodo": 2013
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12358,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 10742,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 353,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 76847,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8674,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 8755,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 15779,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 24330,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4683,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 3011,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 4100,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2462,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 49511,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6682,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 10500,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4783,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9751,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 1850,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 18,
+    "periodo": 2013
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 14644,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 2922,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2707,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4094,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 8274,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7647,
+    "periodo": 2014
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12266,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 10619,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 285,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 77141,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8544,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 8585,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 15461,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 23486,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4451,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2821,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 4218,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2464,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 48578,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6476,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 11034,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4578,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9527,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 1773,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 22,
+    "periodo": 2014
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 14709,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 2744,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2631,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4114,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 8009,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7468,
+    "periodo": 2015
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12516,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 10469,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 342,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 76078,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8387,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 8255,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 15483,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 22633,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4869,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2757,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 4256,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2610,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 48737,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6135,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 11381,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4622,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9495,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 1741,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 16,
+    "periodo": 2015
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 13930,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 2673,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2624,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4272,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 7876,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7310,
+    "periodo": 2016
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12544,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 9953,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 360,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 70759,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8347,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 8447,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 15936,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 22371,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4938,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2708,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 3719,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2567,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 48300,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6129,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 10843,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4302,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9275,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 1630,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 1,
+    "periodo": 2016
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 14035,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 2759,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2425,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4449,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 7615,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7222,
+    "periodo": 2017
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12811,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 11611,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 351,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 75125,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8233,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 7904,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 17175,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 23910,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 5155,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2742,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 4055,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2605,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 47695,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6670,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 11694,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4535,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9307,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 1820,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 0,
+    "periodo": 2017
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 13475,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 2613,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2482,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4470,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 7581,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7165,
+    "periodo": 2018
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 13417,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 12066,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 343,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 75236,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 8133,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 8222,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 17776,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 25591,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4736,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2667,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 3671,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2551,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 47479,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6820,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 12030,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4660,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 9190,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 1790,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 0,
+    "periodo": 2018
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 12811,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 3058,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2540,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4649,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 7431,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7424,
+    "periodo": 2019
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 12480,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 11696,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 224,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 436,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 73456,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 7240,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 7564,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 16679,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 27032,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 4729,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2702,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 3733,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 2326,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 46121,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6949,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 9982,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 4230,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 8584,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 2137,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 0,
+    "periodo": 2019
+  },
+  {
+    "provincia": "Azuay",
+    "nacidos": 11552,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Bolívar",
+    "nacidos": 2874,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Carchi",
+    "nacidos": 2386,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Cañar",
+    "nacidos": 4100,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Chimborazo",
+    "nacidos": 7090,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Cotopaxi",
+    "nacidos": 7287,
+    "periodo": 2020
+  },
+  {
+    "provincia": "El Oro",
+    "nacidos": 11581,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Esmeraldas",
+    "nacidos": 10748,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Exterior",
+    "nacidos": 0,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Galápagos",
+    "nacidos": 406,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Guayas",
+    "nacidos": 69441,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Imbabura",
+    "nacidos": 6674,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Loja",
+    "nacidos": 7160,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Los Ríos",
+    "nacidos": 16354,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Manabí",
+    "nacidos": 25704,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Morona Santiago",
+    "nacidos": 3831,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Napo",
+    "nacidos": 2448,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Orellana",
+    "nacidos": 3356,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Pastaza",
+    "nacidos": 1990,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Pichincha",
+    "nacidos": 40595,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Santa Elena",
+    "nacidos": 6609,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "nacidos": 9085,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Sin información",
+    "nacidos": 0,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Sucumbíos",
+    "nacidos": 3696,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Tungurahua",
+    "nacidos": 8442,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Zamora Chinchipe",
+    "nacidos": 2028,
+    "periodo": 2020
+  },
+  {
+    "provincia": "Zonas no delimitadas",
+    "nacidos": 0,
+    "periodo": 2020
+  }
+]

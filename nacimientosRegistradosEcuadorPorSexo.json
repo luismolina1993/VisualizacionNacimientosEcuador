@@ -1,0 +1,112 @@
+[
+  {
+    "periodo": 2010,
+    "sexo": "Hombres",
+    "nacidos": 164290
+  },
+  {
+    "periodo": 2010,
+    "sexo": "Mujeres",
+    "nacidos": 156994
+  },
+  {
+    "periodo": 2011,
+    "sexo": "Hombres",
+    "nacidos": 167992
+  },
+  {
+    "periodo": 2011,
+    "sexo": "Mujeres",
+    "nacidos": 161580
+  },
+  {
+    "periodo": 2012,
+    "sexo": "Hombres",
+    "nacidos": 163851
+  },
+  {
+    "periodo": 2012,
+    "sexo": "Mujeres",
+    "nacidos": 156366
+  },
+  {
+    "periodo": 2013,
+    "sexo": "Hombres",
+    "nacidos": 151116
+  },
+  {
+    "periodo": 2013,
+    "sexo": "Mujeres",
+    "nacidos": 145288
+  },
+  {
+    "periodo": 2014,
+    "sexo": "Hombres",
+    "nacidos": 150339
+  },
+  {
+    "periodo": 2014,
+    "sexo": "Mujeres",
+    "nacidos": 142278
+  },
+  {
+    "periodo": 2015,
+    "sexo": "Hombres",
+    "nacidos": 148366
+  },
+  {
+    "periodo": 2015,
+    "sexo": "Mujeres",
+    "nacidos": 142091
+  },
+  {
+    "periodo": 2016,
+    "sexo": "Hombres",
+    "nacidos": 143621
+  },
+  {
+    "periodo": 2016,
+    "sexo": "Mujeres",
+    "nacidos": 138193
+  },
+  {
+    "periodo": 2017,
+    "sexo": "Hombres",
+    "nacidos": 149743
+  },
+  {
+    "periodo": 2017,
+    "sexo": "Mujeres",
+    "nacidos": 142160
+  },
+  {
+    "periodo": 2018,
+    "sexo": "Hombres",
+    "nacidos": 149729
+  },
+  {
+    "periodo": 2018,
+    "sexo": "Mujeres",
+    "nacidos": 144435
+  },
+  {
+    "periodo": 2019,
+    "sexo": "Hombres",
+    "nacidos": 146155
+  },
+  {
+    "periodo": 2019,
+    "sexo": "Mujeres",
+    "nacidos": 140058
+  },
+  {
+    "periodo": 2020,
+    "sexo": "Hombres",
+    "nacidos": 135934
+  },
+  {
+    "periodo": 2020,
+    "sexo": "Mujeres",
+    "nacidos": 129503
+  }
+]
