@@ -1,7 +1,7 @@
  
 /* Estilo por defecto de las barras */
 .bar {
-    fill: steelblue;
+    fill: green;
 }
 
 /* Estilo cuando las barras resaltan al pasar el cursor del mouse por encima de la barra */

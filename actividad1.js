@@ -93,7 +93,7 @@ function inicializarDashboard(periodo){
     function onMouseOver(d, i) {
         d3.select(this).attr('class', 'highlight');
         d3.select(this)
-          .transition()     // adds animation
+          .transition()     
           .duration(400)
           .attr('width', x.bandwidth() + 5)
           .attr("y", function(d) { return y(d.nacimientos) - 10; })
@@ -108,7 +108,7 @@ function inicializarDashboard(periodo){
              return y(d.nacimientos) - 15;
          })
          .text(function() {
-             return [ d.nacimientos];  // Value of the text
+             return [ d.nacimientos];  
          });
     }
 
@@ -116,10 +116,9 @@ function inicializarDashboard(periodo){
     Al dispararse este evento, vuelve al estado y estilo original de la barra.
     */
     function onMouseOut(d, i) {
-        // use the text label class to remove label on mouseout
         d3.select(this).attr('class', 'bar');
         d3.select(this)
-          .transition()     // adds animation
+          .transition()     
           .duration(400)
           .attr('width', x.bandwidth())
           .attr("y", function(d) { return y(d.nacimientos); })
@@ -269,7 +268,6 @@ function dibujarGraficoPorProvincia(periodo){
               if (a.nacidos < b.nacidos) {
                 return 1;
               }
-              // a must be equal to b
               return 0;
         });
        
@@ -307,7 +305,7 @@ function dibujarGraficoPorProvincia(periodo){
         /* Se define una escala de color */
         var escalaColorP = d3.scaleLinear()
         .domain(d3.extent(dataChart, d => d.nacidos)) 
-        .range(["lightblue", "steelblue"]);
+        .range(["lightgreen", "green"]);
        
        
        
@@ -347,7 +345,7 @@ function dibujarGraficoPorProvincia(periodo){
     function onMouseOverProvincia(d, i) {
     d3.select(this).attr('class', 'highlight');
     d3.select(this)
-      .transition()     // adds animation
+      .transition()    
       .duration(400)
       .attr('width', x.bandwidth() + 5)
       .attr("y", function(d) { return y(d.nacidos) - 10; })
@@ -362,7 +360,7 @@ function dibujarGraficoPorProvincia(periodo){
          return y(d.nacidos) - 15;
      })
      .text(function() {
-         return [ d.nacidos];  // Value of the text
+         return [ d.nacidos]; 
      });
 }
 
@@ -370,10 +368,9 @@ function dibujarGraficoPorProvincia(periodo){
     Al dispararse este evento, vuelve al estado y estilo original de la barra.
     */
     function onMouseOutProvincia(d, i) {
-        // use the text label class to remove label on mouseout
         d3.select(this).attr('class', 'barD');
         d3.select(this)
-          .transition()     // adds animation
+          .transition()     
           .duration(400)
           .attr('width', x.bandwidth())
           .attr("y", function(d) { return y(d.nacidos); })
