@@ -1,28 +1,31 @@
- .bar {
+ 
+/* Estilo por defecto de las barras */
+.bar {
     fill: steelblue;
 }
 
+/* Estilo cuando las barras resaltan al pasar el cursor del mouse por encima de la barra */
 .highlight {
     fill: orange;
 }
 
+
+/* Estilo de los títulos de los gráficos */
 .title {
     fill: teal;
     font-weight: bold;
 }
 
-td {
-        
-        text-align: center;
-        vertical-align: middle;
+/* Estilo de los td*/
+td {        
+    text-align: center;
+    vertical-align: middle;
 }
 
+/* Estilo de las leyendas que se ven en el gráfico de PIE*/
 .arc text {
-            font: 16px sans-serif;
-            font-weight: bold;
-            text-anchor: middle;
-        }
+    font: 16px sans-serif;
+    font-weight: bold;
+    text-anchor: middle;
+}
 
-        .arc path {
-            stroke: #fff;
-        }
