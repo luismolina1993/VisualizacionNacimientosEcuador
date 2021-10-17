@@ -1,0 +1,28 @@
+ .bar {
+    fill: steelblue;
+}
+
+.highlight {
+    fill: orange;
+}
+
+.title {
+    fill: teal;
+    font-weight: bold;
+}
+
+td {
+        
+        text-align: center;
+        vertical-align: middle;
+}
+
+.arc text {
+            font: 16px sans-serif;
+            font-weight: bold;
+            text-anchor: middle;
+        }
+
+        .arc path {
+            stroke: #fff;
+        }
